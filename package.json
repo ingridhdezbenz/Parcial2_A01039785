@@ -1,0 +1,19 @@
+{
+  "name": "parcial2",
+  "version": "0.0.1",
+  "description": "segundo parcial de clase de web - ingrid hernandez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "ingridhdezbenz",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "save": "^2.4.0",
+    "tedious": "^9.2.1"
+  }
+}
